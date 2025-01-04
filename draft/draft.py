@@ -56,5 +56,6 @@ def main():
         print(f"Game over! The word was {secret_word}")
 
 
-if __name__ == "__main__":
-    main()
+# # Call main() to start the game
+# if __name__ == "__main__":
+#     main()
