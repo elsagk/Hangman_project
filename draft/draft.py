@@ -1,4 +1,3 @@
-
 def get_word() -> str:
     """Prompts the player in order  to choose a word for the game."""
     word = input("Enter the word to guess: ").strip().lower() 
@@ -58,5 +57,5 @@ def main():
 
 # # Call main() to start the game
 # if __name__ == "__main__":
-#     main()
+main()
 
