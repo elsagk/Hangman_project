@@ -30,7 +30,7 @@ hangman_project
 
 -Install dependencies:
 
-    -.Python 3.12.7
+    - Python 3.12.7
 
 ## Usage
 
