@@ -7,22 +7,20 @@
 
 ## Description
 
-  <!-- to create a hangman game in Python, that is played in the terminal.
-  game is a simple game where one or more players try to guess a word, each turn suggesting a letter. -->
-
-This is a simple implementation of the classic Hangman game. It involves a player trying to guess a secret word by guessing individual letters. The player starts with a certain number of lives, which decreases every time a wrong letter is guessed. The game ends either when the player guesses the word correctly or exhausts all their lives.
+This is a simple implementation of the Hangman game,that is played in the terminal. It involves a player trying to guess a secret word by guessing individual letters. The player starts with a certain number of lives, which decreases every time a wrong letter is guessed. The game ends either when the player guesses the word correctly or exhausts all their lives.
 
 This project was built using Python, focusing on basic programming principles like loops, conditions, functions, and object-oriented programming. It provides a clean structure with clear functions and classes to organize the game's logic.
 
 ## Structure
 
 hangman_project
-│
-└───draft/
-│ └──draft.py # Initial draft file containing core functions
-└───utils/
-│ └──game.py # Contains the Hangman class with game logic
-└───main.py # is the file where the executing of the program is going to start.
+
+- │
+- └───draft/
+- │ └──draft.py # Initial draft file containing core functions
+- └───utils/
+- │ └──game.py # Contains the Hangman class with game logic
+- └───main.py # is the file where the executing of the program is going to start.
 
 ## Installation
 
