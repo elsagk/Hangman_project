@@ -66,10 +66,4 @@ class Hangman:
         """Handle the victory state."""
         print(f"You found the word: {''.join(self.word_to_find)} in {self.turn_count} turns with {self.error_count} errors!")
 
-def main():
-    """Run the Hangman game."""
-    game = Hangman()
-    game.start_game()
 
-if __name__ == "__main__":
-    main()
