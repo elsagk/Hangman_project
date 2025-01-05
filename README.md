@@ -1,5 +1,7 @@
+# Hangman_Game_project
+
 - [Description](#description)
-  [Structure] (#Structure )
+- [Structure] (#Structure )
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
